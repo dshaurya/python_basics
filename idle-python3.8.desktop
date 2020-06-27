@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=IDLE (using Python-3.8)
+Icon=/usr/share/pixmaps/python3.8.xpm
+URL=/usr/share/applications/idle-python3.8.desktop
